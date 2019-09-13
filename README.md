@@ -1,3 +1,3 @@
 # my_config
-My tmux, bash, vim and vscode config. <br>
+My tmux, bash, vim and vscode config.   
 This is a new branch.   
