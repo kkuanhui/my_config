@@ -2,8 +2,10 @@
 My tmux, bash, vim and config.   
 
 ## vim
-Vim 
+[[Vim]]
 
 ## Tmux
+[[Tmux]]
 
 ## bash
+[[Bash]]
