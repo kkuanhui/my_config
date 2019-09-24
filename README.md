@@ -2,11 +2,10 @@
 My tmux, bash, vim and config.   
 
 ## vim
-[[Vim]]
 <a href="Vim.md">Vim</a>
 
 ## Tmux
-[[Tmux]]
+<a href="Tmux.md">Vim</a>
 
 ## bash
-[[Bash]]
+<a href="bssh.md">Vim</a>
