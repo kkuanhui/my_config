@@ -1,11 +1,9 @@
 # my_config
 My tmux, bash, vim and config.   
 
-## vim
-<a href="Vim.md">Vim</a>
+## Vim
+<a href="https://hackmd.io/YmvrQQiORY6bzotwSFmrbw" >Vim的初級教學</a>
 
 ## Tmux
-<a href="Tmux.md">Vim</a>
 
-## bash
-<a href="bssh.md">Vim</a>
+## Bash
